@@ -10,15 +10,21 @@
 - [中国裁判文书网](https://wenshu.court.gov.cn/)：裁决书、裁定书、决定书等
 - [司法部国家司法考试中心](http://www.moj.gov.cn/jgsz/jgszzsdw/zsdwgjsfkszx/)：行政法规库、法考真题等
 
-### 开放数据
+### 竞赛数据
 
 - [中国法律智能技术评测（CAIL）](http://cail.cipsc.org.cn/)历年赛题数据
 - [中国法研杯司法人工智能挑战赛（LAIC）](https://laic.cjbdi.com/)历年赛题数据
 - [百度知道法律问答数据集](https://www.heywhale.com/mw/dataset/5e953ca8e7ec38002d02fca7/content)：约 3.6w 条法律问答数据，包括用户提问、网友回答、最佳回答
 - [中国司法考试问答数据集](https://jecqa.thunlp.org/)：约 2.6w 条中国司法考试问答数据集
 
+### 开源数据
 
-### 律师网站
+- [LaWGPT 数据集 @pengxiao-song]()：包含法律领域专有词表、结构化罪名数据、高质量问答数据等
+- [法律罪名预测与机器问答 @liuhuanyong](https://github.com/liuhuanyong/CrimeKgAssitant)：包括罪名知识图谱、20w 法务问答数据等
+- [法律条文知识抽取 @liuhuanyong](https://github.com/liuhuanyong/LawCrimeMining)：包括法律裁判文书和犯罪案例
+- [中国法律手册 @LawRefBook](https://github.com/LawRefBook/Laws)：收集各类法律法规、部门规章案例等
+
+### 法律咨询网站
 
 - [华律网](https://www.66law.cn/)、[找法网](https://www.findlaw.cn/)、[大律](https://www.dalvlaw.com/)、[好律师网](https://www.haolvshi.com.cn/)、[问法网](https://m.51wf.cn/)：提供法律咨询等服务
 - [Flssw](https://flssw.com/index.html)：提供法律咨询、法律新闻、案例分析等服务
@@ -26,7 +32,7 @@
 ### 其它
 
 - [刑法最新罪名一览表](http://www.zuiming.net/51.html)：记录2021年最新刑法罪名
-- [中国法律手册](https://github.com/LawRefBook/Laws)：收集各类法律法规、部门规章案例等
+
 
 ## 贡献
 

@@ -15,7 +15,7 @@
 - [中国法律智能技术评测（CAIL）](http://cail.cipsc.org.cn/)历年赛题数据
 - [中国法研杯司法人工智能挑战赛（LAIC）](https://laic.cjbdi.com/)历年赛题数据
 - [百度知道法律问答数据集](https://www.heywhale.com/mw/dataset/5e953ca8e7ec38002d02fca7/content)：约 3.6w 条法律问答数据，包括用户提问、网友回答、最佳回答
-- [中国司法考试问答数据集](https://jecqa.thunlp.org/)：约 2.6w 条中国司法考试数据集
+- [中国司法考试试题数据集](https://jecqa.thunlp.org/)：约 2.6w 条中国司法考试数据集
 
 ### 开源数据
 

@@ -9,6 +9,7 @@
 - [中国检查网](https://www.12309.gov.cn/12309/zjxflws/index.shtml)：起诉书等
 - [中国裁判文书网](https://wenshu.court.gov.cn/)：裁决书、裁定书、决定书等
 - [司法部国家司法考试中心](http://www.moj.gov.cn/jgsz/jgszzsdw/zsdwgjsfkszx/)：行政法规库、法考真题等
+- [国家法律法规数据库](https://flk.npc.gov.cn/)：官方法律法规数据库
 
 ### 竞赛数据
 

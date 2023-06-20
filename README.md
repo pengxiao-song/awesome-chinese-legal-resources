@@ -4,6 +4,8 @@
 
 ## 数据汇总
 
+- [法律人的常用网站](https://hao.solegal.cn/)
+
 ### 官方数据
 
 - [中国检查网](https://www.12309.gov.cn/12309/zjxflws/index.shtml)：起诉书等
